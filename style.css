@@ -1,0 +1,22 @@
+.full{
+    background-color: rgb(245, 237, 234);
+}
+.logo{
+    height: 55px;
+    width: 45px;
+}
+li{
+    margin-top: 10px;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.catagori img{
+    width: 100px;
+}
+.border-box{
+    height: 100px;
+    width: 100px;
+    margin: 5px solid orange;
+}
